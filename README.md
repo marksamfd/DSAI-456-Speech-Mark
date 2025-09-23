@@ -9,16 +9,15 @@ Repository for the Speech Recognition undergraduate course (DSAI 456) for the 20
 Course | Speech Recognition - DSAI 456
 ---|----
 Webpage| [https://github.com/m-fakhry/DSAI-456-Speech](https://github.com/m-fakhry/DSAI-456-Speech)
-Structure | 2-hour lecture (DAY TIME) and 3-hour lab (DAY TIME)
+Structure | 2-hour lecture (Tue 8-10) and 3-hour lab (DAY TIME)
 TAs | XXX (Alphabetical order)
-Grades | (final), (midterm and quizzes), (lab)
-Lab Policy| Assignments and quizzes
 Book | "_Speech and Language Processing_", Jurafsky and Martin, 3rd Edition, 2025
 Supplementary Book| "_Automatics Speech Recognition, A Deep Learning Approach_", Yu and Deng, 2015 
 Objectives | Provide students with foundational knowledge and practical skills in the theory and application of speech processing and recognition. It covers both traditional statistical approaches and modern deep learning techniques to design, implement, and evaluate speech recognition systems.
 Prerequitstis | Deep Learning, PyTorch, Python
 Tools/APIs |  [librosa](https://librosa.org/doc/latest/index.html), [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis), [torchaudio](https://github.com/pytorch/audio), 
 Tutorials | [Audio Signal Processing for ML, by Valerio Velardo](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
+Lab Policy| Assignments and quizzes
 
 ---
 
