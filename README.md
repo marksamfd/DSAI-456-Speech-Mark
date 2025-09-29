@@ -26,7 +26,7 @@ Lab Policy| Assignments and quizzes
 Week | Date |Topic | Contents | Lecture | Assignment
 ---|---|---|---|---|---
 1| 09-23 | Intro  | What is speech recognition, applications, classical vs modern | | 
-2| 09-30 | Foundations | phonetics and signals, frequency, amplitude, period, analog to digital, sampling and quantization, pitch, intensity | [Lecture 1](lectures/lec1.md) | [Assignment 1]()
+2| 09-30 | Foundations | phonetics and signals, frequency, amplitude, period, analog to digital, sampling and quantization, pitch, intensity | [Lecture 1](lectures/lec1.md) | [Assignment 1](assignments/assign1.md)
 3| | Acoustic Features | Discrete and fast Fourieir transform, Mel filter bank and log, etc., MFCC, PLP, pitch attributes, time and frequency domain, spectrogram and chromagram | [Lecture XX] | [Assignment XX]
 4| | Signal Processing | Gaussian mixture models  | [Lecture XX] | [Assignment XX]
 5| | Signal Processing | Hidden Markov models  | [Lecture XX] | [Assignment XX]
