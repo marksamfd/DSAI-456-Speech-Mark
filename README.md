@@ -9,13 +9,13 @@ Repository for the Speech Recognition undergraduate course (DSAI 456) for the 20
 Course | Speech Recognition - DSAI 456
 ---|----
 Webpage| [https://github.com/m-fakhry/DSAI-456-Speech](https://github.com/m-fakhry/DSAI-456-Speech)
-Structure | 2-hour lecture (Tue 8-10) and 3-hour lab (DAY TIME)
-TAs | XXX (Alphabetical order)
+Structure | 2-hour lecture (Tue 8-10) and 3-hour lab (Sun 10-1, Sun 1-4, Mon 10-1, Tue 10-1, Tue 1-4)
+TAs | Ahmed Aamer, Aya Nageh (Alphabetical order)
 Book | "_Speech and Language Processing_", Jurafsky and Martin, 3rd Edition, 2025
 Supplementary Book| "_Automatics Speech Recognition, A Deep Learning Approach_", Yu and Deng, 2015 
 Objectives | Provide students with foundational knowledge and practical skills in the theory and application of speech processing and recognition. It covers both traditional statistical approaches and modern deep learning techniques to design, implement, and evaluate speech recognition systems.
 Prerequitstis | Deep Learning, PyTorch, Python
-Tools/APIs |  [librosa](https://librosa.org/doc/latest/index.html), [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis), [torchaudio](https://github.com/pytorch/audio), 
+Tools/APIs |  [librosa](https://librosa.org/doc/latest/index.html), [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis), [torchaudio](https://github.com/pytorch/audio), [openSmile](https://audeering.github.io/opensmile/), [senselab](https://github.com/sensein/senselab)
 Tutorials | [Audio Signal Processing for ML, by Valerio Velardo](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
 Lab Policy| Assignments and quizzes
 
@@ -23,11 +23,11 @@ Lab Policy| Assignments and quizzes
 
 ### Lectures
 
-Serial| Date |Topic | Contents | Lecture | Assignment
+Week | Date |Topic | Contents | Lecture | Assignment
 ---|---|---|---|---|---
-1| | Foundations | What is speech recognition, applications, classical vs modern, phonetics and signals, frequency, amplitude, period | [Lecture XX] | [Assignment XX]
-2| | Acoustic Features | Analog to digital, sampling and quantization, channels, MFCC, PLP, pitch attributes, time and frequency domain, spectrogram and chromagram | [Lecture XX] | [Assignment XX]
-3| | Acoustic Features | Discrete and fast Fourieir transform, Mel filter bank and log, etc.  | [Lecture XX] | [Assignment XX]
+1| 09-23 | Intro  | What is speech recognition, applications, classical vs modern | | 
+2| 09-30 | Foundations | phonetics and signals, frequency, amplitude, period, analog to digital, sampling and quantization, pitch, intensity | [Lecture 1](lectures/lec1.md) | [Assignment 1]()
+3| | Acoustic Features | Discrete and fast Fourieir transform, Mel filter bank and log, etc., MFCC, PLP, pitch attributes, time and frequency domain, spectrogram and chromagram | [Lecture XX] | [Assignment XX]
 4| | Signal Processing | Gaussian mixture models  | [Lecture XX] | [Assignment XX]
 5| | Signal Processing | Hidden Markov models  | [Lecture XX] | [Assignment XX]
 6| | Midterm | | | 
@@ -50,7 +50,7 @@ Topic| Percentage | Notes
 ---|---|---
 Lab Assignments | 10% | 
 Lab Quizzes | 10% | 
-Final Lab | 15% | 
+Final Lab | 10% | 
 Paper Presentation | 10% | 
-Midterm | 15% | 
+Midterm | 20% | 
 Final | 40% | 
