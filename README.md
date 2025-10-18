@@ -28,8 +28,8 @@ Week | Date |Topic | Contents | Lecture | Assignment
 1| 09-23 | Intro  | What is speech recognition, applications, classical vs modern | | 
 2| 09-30 | Foundations | phonetics and signals, frequency, amplitude, period, analog to digital, sampling and quantization, pitch, intensity | [Lecture 1](lectures/lec1.md) | [Assignment 1](assignments/assign1.md)
 3| 10-07 | Acoustic Features | Discrete and fast Fourier transform,  time and frequency domain, freq spectrum, spectrogram, Mel scale | [Lecture 2](lectures/lec2.md) | [Assignment 2](assignments/assign2.md)
-4| | Signal Processing | Mel filter bank, windowing, MFCC, Gaussian mixture models  | [Lecture XX] | [Assignment XX]
-5| | Signal Processing | Hidden Markov models  | [Lecture 3](lectures/lec3.md) | [Assignment 3](assignments/assign3.md)
+4| | Signal Processing | Mel filter bank, windowing, MFCC, Gaussian mixture models  | [Lecture 3](lectures/lec3.md)  | [Assignment 3](assignments/assign3.md)
+5| | Signal Processing | Hidden Markov models  | [Lecture XX] | [Assignment XX]
 6| | Midterm | | | 
 7| | CNN | Convolution neural network  for audio and ASR evaluation | [Lecture XX] | [Assignment XX]
 8| | Enc-Dec | Encoder decoder architecture for audio, training, inference, and evaluation | [Lecture XX] | [Assignment XX]
